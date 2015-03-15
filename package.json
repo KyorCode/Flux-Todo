@@ -1,0 +1,23 @@
+{
+  "name": "Flux-Todo",
+  "version": "1.0.0",
+  "description": "Flux architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KyorCode/Flux-Todo.git"
+  },
+  "keywords": [
+    "flux",
+    "todo"
+  ],
+  "author": "KyorCode (t-c@live.be)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KyorCode/Flux-Todo/issues"
+  },
+  "homepage": "https://github.com/KyorCode/Flux-Todo"
+}
